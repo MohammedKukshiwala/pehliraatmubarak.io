@@ -1,1 +1,1 @@
-alert('Mohd Kukshiwala & Family Welcomes you.')
+alert('Created by Mohd Kukshiwala & Family')
