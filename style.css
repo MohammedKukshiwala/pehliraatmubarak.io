@@ -18,3 +18,32 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media (min-width: 410px) {
+    /* Your CSS styles for small screens here */
+    body {
+        background-image: url(images/dawud.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    #hh1 {
+        background-color: aqua;
+        width: 37%;
+        /* text-align: left; */
+        margin-left: 0px;
+        margin-top: 20px;
+        font-size: 10px;
+    }
+
+    #hh2 {
+        background-color: aqua;
+        width: 37%;
+        /* text-align: left; */
+        margin-left: 0px;
+        margin-top: 20px;
+        font-size: 10px;
+    }
+
+
+  }
