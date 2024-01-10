@@ -29,20 +29,20 @@ body {
 
     #hh1 {
         background-color: aqua;
-        width: 37%;
+        width: 80%;
         /* text-align: left; */
-        margin-left: 0px;
-        margin-top: 20px;
-        font-size: 9px;
+        margin-left: 45px;
+        margin-top: 250px;
+        font-size: 20px;
     }
 
     #hh2 {
         background-color: aqua;
-        width: 37%;
+        width: 90%;
         /* text-align: left; */
-        margin-left: 0px;
+        margin-left: 25px;
         margin-top: 20px;
-        font-size: 9px;
+        font-size: 20px;
     }
 
 
