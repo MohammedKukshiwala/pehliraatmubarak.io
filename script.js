@@ -1,1 +1,1 @@
-alert('Created by Mohd Kukshiwala & Family')
+alert('Created by Mohd Kukshiwala.')
